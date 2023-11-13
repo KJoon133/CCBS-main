@@ -1,0 +1,4 @@
+CBS results!
+Cost: 413, Gen_nodes: 33, Exp_nodes: 17, Total CT: 0.32012081146240234, High level CT: 0.2753489017486572
+Learned_CBS results!
+Cost: 413, Gen_nodes: 29, Exp_nodes: 15, Total CT: 0.27138495445251465

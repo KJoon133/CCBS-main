@@ -1,0 +1,3 @@
+
+Improved_CBS results!
+Cost: 426, Gen_nodes: 110, Exp_nodes: 68, Total CT: 2.669708251953125

@@ -1,0 +1,5 @@
+Instance: test_68_6281
+CBS results!
+Cost: 436, Gen_nodes: 21, Exp_nodes: 11, Total CT: 0.9752273559570312, High level CT: 0.890134334564209
+CCBS results!
+Cost: 436, Gen_nodes: 5, Exp_nodes: 3, Total CT: 0.08536005020141602, High level CT: 0.028209686279296875

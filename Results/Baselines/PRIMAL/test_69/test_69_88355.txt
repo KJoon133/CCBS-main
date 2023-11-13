@@ -1,0 +1,1 @@
+Cost: 1976, Targets done: 20, Computation Time(s): 18.99118423461914
